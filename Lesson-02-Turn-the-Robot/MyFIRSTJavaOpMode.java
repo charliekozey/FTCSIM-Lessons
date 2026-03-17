@@ -36,7 +36,7 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
         // for 1 second.
         // ======================================================
 
-        // Set the variable "turn" to -1.
+        // Set the variable "turn" to 1.
         // Then call processDriveInputs().
 
         // Now, how can you specify how long the robot should spin for?
