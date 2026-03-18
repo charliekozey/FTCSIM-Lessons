@@ -23,7 +23,6 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
     }
 
     public void runOpMode(){
-
         frontLeftDrive = hardwareMap.get(DcMotor.class,"frontLeftDrive");
         frontRightDrive = hardwareMap.get(DcMotor.class,"frontRightDrive");
         backLeftDrive = hardwareMap.get(DcMotor.class,"backLeftDrive");

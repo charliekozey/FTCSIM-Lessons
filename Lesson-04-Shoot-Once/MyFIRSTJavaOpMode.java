@@ -17,7 +17,6 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
     }
 
     public void runOpMode(){
-
         shootwheel = hardwareMap.get(DcMotor.class,"shootwheel");
         artifactstopper = hardwareMap.get(Servo.class,"artifactstopper");
 

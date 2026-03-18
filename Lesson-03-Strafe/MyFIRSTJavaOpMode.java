@@ -42,12 +42,5 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
         // 3. Set the new value to zero and process inputs again
         // Check previous lessons if stuck!
 
-        strafe = -1;
-        processDriveInputs();
-
-        sleep(2000);
-
-        strafe = 0;
-        processDriveInputs();
     }
 }
