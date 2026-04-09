@@ -100,7 +100,6 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
         // 2 Stop
         // 3 Manually aim at a goal
         // 4 Fire the shooter
-        // 5 
 
         // YOUR CODE BELOW:
 
