@@ -1,5 +1,5 @@
 // =================================
-// LESSON 6: ARTIFACT INTAKE (HUMAN) - SOLUTION
+// LESSON 6: ARTIFACT INTAKE (HUMAN)
 // =================================
 
 public class MyFIRSTJavaOpMode extends LinearOpMode {
